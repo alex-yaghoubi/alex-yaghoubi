@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Alex Yaghoubi</h1>
-<h3 align="center">Software Engineer | Manager | CEO</h3>
+<h3 align="center">Product engineer | Blockchain | web3 | custody | digital asset infrastructure </h3>
 
 <p align="center">
   <a href="https://alexyaghoubi.dev" target="_blank">
