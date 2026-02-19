@@ -7,13 +7,13 @@ Digital Asset Infrastructure • Custody Systems • Wallet Architecture • Blo
   <a href="https://alexyaghoubi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yaghoubimohammad" target="_blank">
+  <a href="https://www.linkedin.com/in/alexygh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/yaghoubi_mo" target="_blank">
+  <a href="https://x.com/alex_yaghoubi" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
   </a>
-  <a href="mailto:alex.ygh.tech@gmail.com">
+  <a href="mailto:contact@alexyaghoubi.dev">
     <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
