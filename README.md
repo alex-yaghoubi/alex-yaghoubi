@@ -1,126 +1,163 @@
-<h1 align="center">👋 Hello, I'm Alex Yaghoubi</h1>
-<h3 align="center">Product engineer | Blockchain | web3 | custody | digital asset infrastructure </h3>
+<h1 align="center">Alex Yaghoubi</h1>
+<h3 align="center">
+Digital Asset Infrastructure • Custody Systems • Wallet Architecture • Blockchain Product Engineering
+</h3>
 
 <p align="center">
   <a href="https://alexyaghoubi.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/yaghoubimohammad" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://twitter.com/yaghoubi_mo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
   </a>
   <a href="mailto:alex.ygh.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-## 🚀 About Me
+---
 
-I'm a passionate software engineer with expertise in full-stack development, cloud architecture, and DevOps. I love building scalable systems and contributing to open-source projects.
+## About Me
 
-- 🔭 Currently working on cloud-native applications at [OctaviaTech](https://octaviatech.app?utm_source=alexyaghoubi_github)
-- 🌱 Learning **Kubernetes advanced patterns**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **Node.js, React, AWS, and System Design**
-- ⚡ Fun fact: I'm a tea enthusiast ☕ and amateur photographer 📸
+I build digital asset infrastructure, custody systems, and blockchain-integrated financial platforms.
 
-## 🛠️ Tech Stack
+My work has focused on designing and operating:
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+• Custodial and non-custodial wallet infrastructure  
+• Exchange wallet architecture (hot / warm / cold / vault segregation)  
+• Blockchain transaction pipelines and on-chain settlement systems  
+• Multi-network asset integrations and blockchain node orchestration  
+• High-throughput financial platforms handling real asset flows  
 
-### ☁️ Cloud & DevOps
+I operate at the intersection of product engineering, infrastructure, and digital asset architecture — translating blockchain primitives into production-grade financial systems.
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Logstash](https://img.shields.io/badge/-Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
-![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+Currently building infrastructure products at:
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+→ https://octaviatech.app
 
-## 🌟 Featured Projects
+---
 
-### 1. Headless CMS (Multi-tenant)
-📝 A modern multi-tenant headless CMS with flexible API and advanced admin panel  
-🔧 **Tech Stack:** Node.js, TypeScript, React, MongoDB, Redis  
-🚀 [Live Demo](https://cch-demo.octaviatech.app)  
-👤 **Demo Access:**  
-   - Username: `demoadmin@octaviatech.app`  
-   - Password: `Demo@1234`
+## Core Expertise
 
-### 2. Cloud Payroll Accounting System (Multi-tenant)
-📝 Comprehensive multi-company payroll system with advanced reporting  
-🔧 **Tech Stack:** Node.js, TypeScript, React, PostgreSQL  
-🚀 [Live Demo](https://gss-demo.octaviatech.app)  
-👤 **Demo Access:**  
-   - Username: `demoadmin@octaviatech.app`  
-   - Password: `Demo@1234`
+### Digital Asset Infrastructure
 
-### 3. Online Appointment Booking Platform (Multi-tenant)
-📝 Smart booking system with scheduling calendar and multi-branch management  
-🔧 **Tech Stack:** Next.js, TypeScript, React, Node.js, MongoDB  
-🚀 [Live Demo](https://ibg-demo.octaviatech.app)  
-👤 **Demo Access:**  
-   - Username: `demoadmin@octaviatech.app`  
-   - Password: `Demo@1234`
+• Custody architecture and wallet systems  
+• Asset lifecycle management (deposit → custody → transfer → withdrawal)  
+• Blockchain integrations and transaction orchestration  
+• On-chain settlement systems  
+• Exchange wallet and asset infrastructure  
+• Multi-chain asset support and integration  
 
-### 4. Support Ticketing System (Multi-tenant)
-📝 Customer support platform with live chat and rating system  
-🔧 **Tech Stack:** Node.js, TypeScript, React, Socket.io, Elasticsearch  
-🚀 [Live Demo (Admin)](https://sos-demo.octaviatech.app/admin)  
-👤 **Demo Access:**  
-   - Username: `demoadmin@octaviatech.app`  
-   - Password: `Demo@1234`  
+---
 
-🚀 [Live Demo (User)](https://sos-demo.octaviatech.app/user/auth?token=)
+### Backend & Infrastructure
 
-### 5. Cryptocurrency Exchange
-📝 Digital currency trading platform with built-in wallet and advanced matching engine  
-🔧 **Tech Stack:** Node.js, TypeScript, React, Next.js, .NET Core, Redis  
-🚀 [Live Demo](https://ubitex.io)  
-🚀 [Live Demo (Exchange Platform)](https://app.ubitex.io)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka)
 
+Core capabilities:
 
-## 📊 GitHub Stats
+• High-throughput backend systems  
+• Transaction processing pipelines  
+• Distributed systems and microservices  
+• Blockchain node integrations  
+• Event-driven architecture  
+
+---
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch)
+
+Focus areas:
+
+• Secure system deployment  
+• Infrastructure scalability  
+• High availability systems  
+• Observability and monitoring  
+
+---
+
+## Selected Infrastructure Projects
+
+### Cryptocurrency Exchange & Custody Infrastructure
+
+Production trading platform with integrated wallet and custody system.
+
+Core infrastructure included:
+
+• Custodial wallet architecture  
+• Asset deposit and withdrawal pipelines  
+• Blockchain integrations across multiple networks  
+• Secure transaction orchestration  
+• High-availability backend infrastructure  
+
+Platform:
+
+https://ubitex.io  
+https://app.ubitex.io  
+
+---
+
+### Multi-Tenant Infrastructure Platform (Octavia)
+
+Infrastructure platform for multi-tenant SaaS and distributed systems.
+
+Includes:
+
+• API-first architecture  
+• Multi-tenant isolation  
+• Distributed backend services  
+• Cloud-native deployment  
+• Observability and infrastructure tooling  
+
+https://octaviatech.app
+
+---
+
+## Engineering Philosophy
+
+Financial infrastructure must prioritize:
+
+• Security over convenience  
+• Determinism over abstraction  
+• Reliability over velocity  
+• Clear asset state management  
+• Explicit control over asset movement  
+
+Blockchain infrastructure introduces new primitives — but production systems require discipline in state management, transaction orchestration, and custody design.
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaghoubi-mohammad&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaghoubi-mohammad&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yaghoubi-mohammad&show_icons=true&theme=dark&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaghoubi-mohammad&theme=dark" />
 </div>
 
+---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yaghoubi-mohammad&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## Connect
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://alexyaghoubi.dev" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/yaghoubimohammad" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/yaghoubi_mo" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" width="40" height="40"/>
-  </a>
-  <a href="mailto:alex.ygh.tech@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
-  </a>
-</p>
+Portfolio  
+https://alexyaghoubi.dev  
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yaghoubi-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="yaghoubi-mohammad" /> 
-</p>
+LinkedIn  
+https://linkedin.com/in/yaghoubimohammad  
+
+Twitter  
+https://twitter.com/yaghoubi_mo  
+
+Email  
+alex.ygh.tech@gmail.com
