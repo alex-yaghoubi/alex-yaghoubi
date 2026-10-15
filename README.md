@@ -84,6 +84,8 @@ A reusable command-line project generator for Next.js applications, with a struc
 
 [**npm package ↗**](https://www.npmjs.com/package/create-nextjs-standard-app) · [**GitHub source ↗**](https://github.com/alex-yaghoubi/next.js-starter)
 
+[![npm weekly downloads](https://img.shields.io/npm/dw/create-nextjs-standard-app?label=npm%20weekly%20downloads)](https://www.npmjs.com/package/create-nextjs-standard-app) [![npm version](https://img.shields.io/npm/v/create-nextjs-standard-app?label=version)](https://www.npmjs.com/package/create-nextjs-standard-app)
+
 Additional production code and internal engineering repositories remain private; public project descriptions and case studies do not disclose proprietary source.
 
 ### How I approach product & engineering
