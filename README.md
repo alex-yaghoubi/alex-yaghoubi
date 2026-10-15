@@ -76,9 +76,15 @@ Building connected software products and backend services around reusable platfo
 
 > Featured projects link to their product pages, not their private GitHub repositories. Project descriptions are public-facing summaries; proprietary source code remains private.
 
-### Public portfolio
+### Open-source project
 
-This profile highlights selected products and technical work. Production code and internal engineering repositories are kept private; public case studies and architecture examples will be shared when ready.
+#### [create-nextjs-standard-app](https://www.npmjs.com/package/create-nextjs-standard-app) — Published npm CLI
+
+A reusable command-line project generator for Next.js applications, with a structured TypeScript/Tailwind starter, English/Persian internationalization, and right-to-left layout support. Published publicly for other developers to use and build upon.
+
+[**npm package ↗**](https://www.npmjs.com/package/create-nextjs-standard-app) · [**GitHub source ↗**](https://github.com/alex-yaghoubi/next.js-starter)
+
+Additional production code and internal engineering repositories remain private; public project descriptions and case studies do not disclose proprietary source.
 
 ### How I approach product & engineering
 
