@@ -40,17 +40,17 @@ I work at the intersection of **product leadership, technical architecture, and 
 
 ### Featured projects
 
-#### [Capital OS](https://github.com/alex-yaghoubi/capital-os) — Financial operating system
+#### [Capital OS](https://octaviatech.app/products/capital-os) — Financial operating system
 
-**Multi-tenant financial platform · [Private GitHub repository](https://github.com/alex-yaghoubi/capital-os)**
+**Multi-tenant financial platform · [Explore the product →](https://octaviatech.app/products/capital-os)**
 
 A financial operating system designed for platform operators, financial organizations, and their customers. It brings together portfolio operations, accounting, governed financial-provider connections, controlled execution, and role-aware client experiences.
 
 **Focus:** Financial product architecture · Portfolio operations · Multi-tenancy · Operational controls
 
-#### [iFlood Simulator](https://github.com/alex-yaghoubi/flood-simulator) — Flood simulation & AI-assisted engineering
+#### [iFlood Simulator](https://ifloodsim.com) — Flood simulation & AI-assisted engineering
 
-**Engineering decision-support platform · [Private GitHub repository](https://github.com/alex-yaghoubi/flood-simulator)**
+**Engineering decision-support platform · [Product website →](https://ifloodsim.com)**
 
 An engineering platform for modeling flood scenarios, comparing mitigation approaches, and generating technical reports. It combines surface-flow simulation, storm-sewer routing, geospatial visualization, and AI-assisted evaluation of infrastructure interventions.
 
@@ -74,7 +74,7 @@ A product built around service agreements, milestone payments, on-chain escrow, 
 
 Building connected software products and backend services around reusable platform capabilities, API-first integrations, and reliable operations.
 
-> **Access note:** Capital OS and iFlood Simulator link to private GitHub repositories. Their links are available to authorized collaborators; visitors without access may see a 404. Project descriptions are public-facing summaries—source code remains private.
+> Featured projects link to their product pages, not their private GitHub repositories. Project descriptions are public-facing summaries; proprietary source code remains private.
 
 ### Public engineering sample
 
