@@ -76,11 +76,9 @@ Building connected software products and backend services around reusable platfo
 
 > Featured projects link to their product pages, not their private GitHub repositories. Project descriptions are public-facing summaries; proprietary source code remains private.
 
-### Public engineering sample
+### Public portfolio
 
-**[Next.js Starter](https://github.com/alex-yaghoubi/next.js-starter)** — A reusable Next.js + TypeScript starter with Tailwind CSS, internationalization, and RTL support.
-
-Additional public experiments and repositories are available in the [Repositories tab](https://github.com/alex-yaghoubi?tab=repositories).
+This profile highlights selected products and technical work. Production code and internal engineering repositories are kept private; public case studies and architecture examples will be shared when ready.
 
 ### How I approach product & engineering
 
