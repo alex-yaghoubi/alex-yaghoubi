@@ -8,13 +8,13 @@
 
   <h1>Alex Yaghoubi</h1>
 
-  <p><strong>Digital Assets &amp; Payments Product Leader</strong></p>
+  <p><strong>Fintech Product &amp; Engineering Leader</strong></p>
 
-  <p>Custody &nbsp;·&nbsp; Wallets &nbsp;·&nbsp; Stablecoins &nbsp;·&nbsp; Settlement &nbsp;·&nbsp; Financial Infrastructure</p>
+  <p>Digital Assets &nbsp;·&nbsp; Financial Platforms &nbsp;·&nbsp; AI-Assisted Engineering</p>
 
   <p>
-    I build and lead products where money moves, controls matter,<br/>
-    and systems must work beyond the happy path.
+    I lead products and build complex systems—from custody and payments<br/>
+    to capital management and engineering simulation.
   </p>
 
   <p>
@@ -29,32 +29,52 @@
 
 ### What I work on
 
-I sit at the intersection of **product leadership, technical architecture, and financial operations**. My focus is turning complex digital-asset and payment workflows into products that can be operated safely, scaled deliberately, and trusted when something goes wrong.
+I work at the intersection of **product leadership, technical architecture, and real-world operations**. My work spans digital assets, payments, capital-management software, and AI-assisted engineering platforms—with an emphasis on systems that are useful, reliable, and operationally accountable.
 
-| Product & systems focus | What matters in production |
+| Focus | Problems I work on |
 | :--- | :--- |
-| **Digital asset custody** | Wallet tiers, signing controls, approvals, and asset movement |
-| **Payments & settlement** | Transaction lifecycles, reconciliation, idempotency, and failure recovery |
-| **Exchange & blockchain infrastructure** | Multi-network integrations, deposits, withdrawals, and operational visibility |
-| **Platform & product execution** | Product strategy, cross-functional delivery, multi-tenant services, and reliability |
+| **Financial operating systems** | Portfolio workflows, accounting, provider integrations, and governed financial operations |
+| **Digital assets & payments** | Custody, wallets, transaction lifecycles, settlement, and reconciliation |
+| **Flood simulation & engineering AI** | Hydraulic modeling, infrastructure scenarios, mitigation comparison, and decision support |
+| **Product & platform leadership** | Cross-functional execution, multi-tenant architecture, reliability, and operational controls |
 
-### Selected work
+### Featured projects
 
-**[Ubitex](https://ubitex.io) — Digital asset exchange & custody**
+#### Capital OS — Financial operating system
 
-Experience leading product and operational work across exchange infrastructure, custody and wallet workflows, blockchain integrations, and real-money transaction systems. The broader platform has supported **150+ digital assets** and around-the-clock operations.
+**Multi-tenant financial platform · Private codebase**
 
-**[Nexvow](https://nexvow.org) — Programmable escrow & on-chain settlement**
+A financial operating system designed for platform operators, financial organizations, and their customers. It brings together portfolio operations, accounting, governed financial-provider connections, controlled execution, and role-aware client experiences.
 
-A live product on **Base** for service agreements and milestone-based payments, with programmable escrow, explicit transaction states, and dispute flows.
+**Focus:** Financial product architecture · Portfolio operations · Multi-tenancy · Operational controls
 
-[Explore the live product →](https://nexvow.org)
+#### iFlood Simulator — Flood simulation & AI-assisted engineering
 
-**[Octavia](https://octaviatech.app) — Multi-tenant product infrastructure**
+**Engineering decision-support platform · Private codebase**
 
-Building connected software and backend services around reusable platform capabilities, API-first integrations, and operationally reliable product workflows.
+An engineering platform for modeling flood scenarios, comparing mitigation approaches, and generating technical reports. It combines surface-flow simulation, storm-sewer routing, geospatial visualization, and AI-assisted evaluation of infrastructure interventions.
 
-> Many of the production systems I work on live in private repositories. This page highlights publicly shareable products, experience, and engineering samples—not proprietary source code.
+**Focus:** Hydraulic simulation · Rust & TypeScript · Geospatial systems · AI-assisted scenario evaluation
+
+*Engineering decision-support software, not a substitute for certified design or qualified engineering review.*
+
+#### [Ubitex](https://ubitex.io) — Digital asset exchange & custody
+
+Experience leading product and operational work across exchange infrastructure, custody and wallet workflows, blockchain integrations, and real-money transaction systems.
+
+**Focus:** Digital asset product leadership · Wallet operations · Custody controls · Transaction infrastructure
+
+#### [Nexvow](https://nexvow.org) — Programmable escrow & settlement
+
+A product built around service agreements, milestone payments, on-chain escrow, and explicit transaction and dispute workflows on Base.
+
+[Explore Nexvow →](https://nexvow.org)
+
+#### [Octavia](https://octaviatech.app) — Connected product infrastructure
+
+Building connected software products and backend services around reusable platform capabilities, API-first integrations, and reliable operations.
+
+> Featured projects include privately developed systems. Project descriptions are public-facing summaries; proprietary repositories, implementation details, and source code remain private.
 
 ### Public engineering sample
 
@@ -81,13 +101,13 @@ Additional public experiments and repositories are available in the [Repositorie
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
 </p>
 
-**Domains:** Digital assets · Wallet infrastructure · Custody · Payments · Stablecoins · Transaction orchestration · Settlement · Product operations
+**Domains:** Financial operating systems · Portfolio management · Digital assets · Custody · Payments · Settlement · Flood simulation · Geospatial engineering · AI-assisted decision support
 
 ---
 
 <div align="center">
 
-  <strong>Let's build financial systems that hold up in the real world.</strong>
+  <strong>Building practical, resilient systems for finance and engineering.</strong>
 
   <p>
     <a href="https://alexyaghoubi.dev">Portfolio &amp; writing</a>
